@@ -1,3 +1,7 @@
+<p>
+<img src="https://www.semihsamandar.com/projects/nami/app-icon.webp" width="96" alt="Nami app icon" />
+</p>
+
 # Nami
 
 > **Note:** The source code of Nami lives in a private repository. This public repo is a
@@ -11,6 +15,13 @@
 
 **Every AI, one app.** Nami brings GPT, Claude, Gemini, Grok and more into a single mobile app
 with one credit-based subscription, instead of a separate plan for every provider.
+
+<p>
+<img src="https://www.semihsamandar.com/projects/nami/store/1.webp" width="200" alt="Nami screenshot: All AI models, one place" />
+<img src="https://www.semihsamandar.com/projects/nami/store/2.webp" width="200" alt="Nami screenshot: Switch between AI models seamlessly anytime" />
+<img src="https://www.semihsamandar.com/projects/nami/store/3.webp" width="200" alt="Nami screenshot: All your AI conversations in one place" />
+<img src="https://www.semihsamandar.com/projects/nami/store/4.webp" width="200" alt="Nami screenshot: Switch to the right AI, exactly when needed" />
+</p>
 
 | 650+ AI models | 9 providers | 1 subscription |
 |:---:|:---:|:---:|
